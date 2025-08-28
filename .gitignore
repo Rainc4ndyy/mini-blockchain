@@ -1,0 +1,7 @@
+/target
+.vscode/
+.idea/
+chain.json
+config.json
+contacts.json
+wallets/
